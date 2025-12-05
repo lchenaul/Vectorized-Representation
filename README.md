@@ -1,12 +1,12 @@
 
 
-# ** Data Wrangling & Vectorization**
+#  Data Wrangling & Vectorization
 
 This project explores how preprocessing and embedding choices shape text representation for NLP tasks.
 
 
 
-## **What I Did**
+## What I Did
 
 * Performed vocabulary analysis on a personal document set
 * Applied full preprocessing: tokenization, stopwords, lemmatization, casing, punctuation removal
@@ -33,8 +33,3 @@ This project explores how preprocessing and embedding choices shape text represe
 Different vectorization methods reveal different types of similarity:
 TF-IDF captures term importance, Word2Vec clusters semantics, Doc2Vec models document themes, and ELMo provides the strongest contextual representation.
 
-
-
----
-
-If you want it **even shorter**, I can compress it to 3–4 lines.
